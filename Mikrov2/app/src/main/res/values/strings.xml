@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Mikro v2</string>
+    <!--
+    This string is used for square devices and overridden by hello_world in
+    values-round/strings.xml for round devices.
+    -->
+    <string name="hello_world">From the Square world,\nHello, %1$s!</string>
+    <string name="tile_label">Example tile</string>
+    <string name="complication_label">Example complication</string>
+    <string name="complication_week_progress_label">Teste</string>
+    <string name="complication_active_steps">Active</string>
+    <string name="complication_sedentary_steps">Sedentary</string>
+</resources>
